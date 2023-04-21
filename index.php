@@ -25,7 +25,7 @@
         <a class="p-2 text-dark" href="#">Registrar</a>
         <a class="p-2 text-dark" href="#">Actualizar</a>
         <a class="p-2 text-dark" href="#">Eliminar</a>
-        <a class="p-2 text-dark" href="formulario.php">Listar</a>
+        <a class="p-2 text-dark" href="listar.php">Listar</a>
 
       </nav>
     </div>
